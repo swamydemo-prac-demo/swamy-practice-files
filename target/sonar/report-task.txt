@@ -2,5 +2,5 @@ projectKey=com.mt:maven-web-application
 serverUrl=http://65.1.65.218:9000
 serverVersion=7.8.0.26217
 dashboardUrl=http://65.1.65.218:9000/dashboard?id=com.mt%3Amaven-web-application
-ceTaskId=AYTGz_I8ldBYAHBrd-_7
-ceTaskUrl=http://65.1.65.218:9000/api/ce/task?id=AYTGz_I8ldBYAHBrd-_7
+ceTaskId=AYTI0OQ_ldBYAHBrd_Yb
+ceTaskUrl=http://65.1.65.218:9000/api/ce/task?id=AYTI0OQ_ldBYAHBrd_Yb
